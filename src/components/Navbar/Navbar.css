@@ -1,0 +1,157 @@
+.sections{
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    margin: 0 10px;
+    justify-content: space-between;
+    background-color: white;
+    /* text-align: center; */
+    
+}
+
+a:link {
+    text-decoration: none;
+  }
+
+a:visited {
+    text-decoration: none;
+    color: gray;
+  }  
+
+.profiles{
+    margin-left: 30px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+.profiles span{
+    font-size: 12px;
+    margin-left: 10px;
+    color: gray
+}
+
+.discover{
+    background-color: lightcyan;
+    border-left: 2px solid black;
+}
+
+.logo , .profile{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px 5px;
+
+}
+
+.logo{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid silver;
+}
+
+.logo p{
+    display: inline-block;
+    font-size: 15px;
+    margin: 0;
+    margin-left: 5px;
+}
+
+.main_logo p{
+    margin-right: 50px;
+    margin-left: 10px;
+    font-size: 15px;
+}
+
+.profile span{
+    margin: 10px;
+    font-size: 12px;
+    color: gray;
+}
+
+.profile{
+    padding: 10px 0;
+    margin: 0;
+    cursor: pointer;
+}
+
+.profiles{
+    
+}
+
+.personal{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 50px;
+    margin-bottom: 10px;
+    font-size: 12px;
+    color: gray;
+    cursor: pointer;
+}
+
+.under_personal span{
+    margin-right: 48px;
+}
+
+.nav_links{
+    font-size: 12px;
+}
+
+.logo_info{
+    display: flex;
+    /* font-size: 12px; */
+    margin-left:25px ;
+    margin-bottom: 15px;
+    margin-top: 40px;
+    color: gray;
+}
+
+.logo_info div{
+    margin-right: 20px;
+}
+
+.link{
+    margin-left: 50px;
+    color: gray;
+    cursor: pointer;
+}
+
+.link{
+    margin: 5px;
+}
+
+.socail_links{
+    margin: 40px 45px;
+    cursor: pointer;
+
+}
+
+.socail_links span{
+    margin: 10px;
+}
+
+.rights{
+    margin-left: 50px;
+    margin-bottom: 10px;
+    font-size: 10px;
+    color: silver;
+}
+
+.bell{
+    color: white;
+    background-color: orange;
+    border: 50%;
+    padding: 2px;
+}
+
+
+.shade{
+    background-color: rgb(19, 72, 231);
+    border-radius: 10px;
+}
+
+.discov span{
+    color: white;
+    padding: 5px;
+}
