@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mdammar786/nftverse-assignment/static/css/main.af86edd1.css",
+    "main.js": "/mdammar786/nftverse-assignment/static/js/main.39c3a1da.js",
+    "static/js/787.105cc76a.chunk.js": "/mdammar786/nftverse-assignment/static/js/787.105cc76a.chunk.js",
+    "index.html": "/mdammar786/nftverse-assignment/index.html",
+    "main.af86edd1.css.map": "/mdammar786/nftverse-assignment/static/css/main.af86edd1.css.map",
+    "main.39c3a1da.js.map": "/mdammar786/nftverse-assignment/static/js/main.39c3a1da.js.map",
+    "787.105cc76a.chunk.js.map": "/mdammar786/nftverse-assignment/static/js/787.105cc76a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af86edd1.css",
+    "static/js/main.39c3a1da.js"
+  ]
+}
